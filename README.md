@@ -11,9 +11,7 @@ Embed Video From VK
 &autoplay=1
 
 ข้างล่างนี้โค้ดจาก codepen
-
-
-<div class="video-container"><iframe width="853" height="480" src="https://vk.com/video_ext.php?oid=-116782009&id=456239250&hash=4fa87c0d3d44c087&hd=1&autoplay=1" frameborder="0" allowfullscreen</iframe</div>
+<code><div class="video-container"><iframe width="853" height="480" src="https://vk.com/video_ext.php?oid=-116782009&id=456239250&hash=4fa87c0d3d44c087&hd=1&autoplay=1" frameborder="0" allowfullscreen</iframe</div>
 
 <style type="text/css">
 .video-container {
@@ -32,6 +30,7 @@ width: 100%;
 height: 100%;
 }
 </style>
+</code>
 
 
 จบเพียงเท่านี้ นำไปใช้งานได้เลย ใน VK คลิปเยอะเต็มไปหมด
